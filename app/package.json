@@ -5,7 +5,7 @@
   "homepage": "https://nodecg.com",
   "dependencies": {
     "electron-debug": "^1.0.0",
-    "electron-is-dev": "^0.1.1",
+    "electron-is-dev": "^0.3.0",
     "electron-window-state": "^3.0.3",
     "is-url": "^1.2.1"
   },
